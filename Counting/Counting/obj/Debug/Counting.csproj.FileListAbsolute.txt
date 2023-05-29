@@ -1,0 +1,11 @@
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\bin\Debug\Counting.exe.config
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\bin\Debug\Counting.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\bin\Debug\Counting.pdb
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.csproj.AssemblyReference.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.csproj.SuggestedBindingRedirects.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.Form1.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.Properties.Resources.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.csproj.GenerateResource.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.csproj.CoreCompileInputs.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Counting\Counting\obj\Debug\Counting.pdb
