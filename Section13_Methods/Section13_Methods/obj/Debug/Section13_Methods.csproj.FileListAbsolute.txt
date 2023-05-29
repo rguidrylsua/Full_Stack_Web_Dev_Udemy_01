@@ -1,0 +1,11 @@
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\bin\Debug\Section13_Methods.exe.config
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\bin\Debug\Section13_Methods.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\bin\Debug\Section13_Methods.pdb
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.csproj.AssemblyReference.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.csproj.SuggestedBindingRedirects.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.Form1.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.Properties.Resources.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.csproj.GenerateResource.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.csproj.CoreCompileInputs.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section13_Methods\Section13_Methods\obj\Debug\Section13_Methods.pdb
