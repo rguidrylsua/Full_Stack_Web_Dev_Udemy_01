@@ -1,0 +1,16 @@
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\bin\Debug\Learning_Classes.exe.config
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\bin\Debug\Learning_Classes.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\bin\Debug\Learning_Classes.pdb
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.csproj.AssemblyReference.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.csproj.SuggestedBindingRedirects.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Properties.Resources.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.csproj.GenerateResource.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.csproj.CoreCompileInputs.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.pdb
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.SelectScreen.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Section14_Udemy.ClassesObjects.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.SendClassObject.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Using_List_Class.UsingListClass.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Using_Random_Class.UsingRandom.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Using_Timer_Class.TimerClass.resources
