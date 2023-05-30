@@ -48,7 +48,7 @@ namespace Learning_Classes
 
         private void btnUsingMathClass_Click(object sender, EventArgs e)
         {
-            Form1 frm5 = new Form1();
+            Calculator.Calculator frm5 = new Calculator.Calculator();
             frm5.ShowDialog();
         }
     }

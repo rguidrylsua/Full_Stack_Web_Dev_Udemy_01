@@ -61,11 +61,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculator\Form1.cs">
+    <Compile Include="Calculator\Calculator.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Calculator\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Calculator\Calculator.Designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
     </Compile>
     <Compile Include="Classes And Objects\Employee.cs" />
     <Compile Include="Classes And Objects\ClassesObjects.cs">
@@ -108,8 +108,8 @@
     <Compile Include="Using Timer Class\TimerClass.Designer.cs">
       <DependentUpon>TimerClass.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Calculator\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Calculator\Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Classes And Objects\ClassesObjects.resx">
       <DependentUpon>ClassesObjects.cs</DependentUpon>
