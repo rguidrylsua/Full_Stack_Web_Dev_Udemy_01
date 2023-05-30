@@ -14,4 +14,4 @@ C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debu
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Using_List_Class.UsingListClass.resources
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Using_Random_Class.UsingRandom.resources
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Using_Timer_Class.TimerClass.resources
-C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Calculator.Form1.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section14_Udemy\Section14_Udemy\obj\Debug\Learning_Classes.Calculator.Calculator.resources

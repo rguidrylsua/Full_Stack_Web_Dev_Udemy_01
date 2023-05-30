@@ -232,6 +232,11 @@ namespace Learning_Classes.Calculator
             Application.Exit();
         }
 
+        private void Calculator_Load(object sender, EventArgs e)
+        {
+
+        }
+
         void set2Parameter(string text, string text2)
         {
             if (text.Trim()!="" && text2.Trim() != "")

@@ -312,7 +312,7 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // Form1
+            // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -325,8 +325,9 @@
             this.Controls.Add(this.txtSecondNumber);
             this.Controls.Add(this.txtFirstNumber);
             this.Controls.Add(this.groupBox1);
-            this.Name = "Form1";
+            this.Name = "Calculator";
             this.Text = "Calculator";
+            this.Load += new System.EventHandler(this.Calculator_Load);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
