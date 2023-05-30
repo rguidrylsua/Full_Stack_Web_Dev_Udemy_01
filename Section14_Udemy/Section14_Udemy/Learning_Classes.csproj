@@ -61,6 +61,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculator\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculator\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Classes And Objects\Employee.cs" />
     <Compile Include="Classes And Objects\ClassesObjects.cs">
       <SubType>Form</SubType>
@@ -90,12 +96,6 @@
     <Compile Include="Using List Class\UsingListClass.Designer.cs">
       <DependentUpon>UsingListClass.cs</DependentUpon>
     </Compile>
-    <Compile Include="Using Math Class\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Using Math Class\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Using Random Class\UsingRandom.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,6 +108,9 @@
     <Compile Include="Using Timer Class\TimerClass.Designer.cs">
       <DependentUpon>TimerClass.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Calculator\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Classes And Objects\ClassesObjects.resx">
       <DependentUpon>ClassesObjects.cs</DependentUpon>
     </EmbeddedResource>
@@ -129,9 +132,6 @@
     </Compile>
     <EmbeddedResource Include="Using List Class\UsingListClass.resx">
       <DependentUpon>UsingListClass.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Using Math Class\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Using Random Class\UsingRandom.resx">
       <DependentUpon>UsingRandom.cs</DependentUpon>
