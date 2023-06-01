@@ -13,3 +13,6 @@ C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debu
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Encapsulation.FrmEmployeeDetail.resources
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Static_Using.StaticUsing.resources
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Inheritance.InheritanceForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Interface.InterfaceForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Polymorphism.PolymorphismForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Abstract.AbstractForm.resources

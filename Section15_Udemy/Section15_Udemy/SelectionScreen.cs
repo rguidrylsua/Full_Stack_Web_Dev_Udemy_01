@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Section15_Udemy.Encapsulation;
 using Section15_Udemy.Static_Using;
 using Section15_Udemy.Inheritance;
+using Section15_Udemy.Interface;
+using Section15_Udemy.Polymorphism;
+using Section15_Udemy.Abstract;
 
 namespace Section15_Udemy
 {
@@ -36,6 +32,24 @@ namespace Section15_Udemy
         {
             InheritanceForm inheritanceForm = new InheritanceForm();
             inheritanceForm.ShowDialog();
+        }
+
+        private void btnInterface_Click(object sender, EventArgs e)
+        {
+            InterfaceForm interfaceForm = new InterfaceForm();
+            interfaceForm.ShowDialog();
+        }
+
+        private void btnPolymorphism_Click(object sender, EventArgs e)
+        {
+            PolymorphismForm polymorphismForm = new PolymorphismForm();
+            polymorphismForm.ShowDialog();
+        }
+
+        private void btnAbstract_Click(object sender, EventArgs e)
+        {
+            AbstractForm abstractForm = new AbstractForm();
+            abstractForm.ShowDialog();
         }
     }
 }

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\AbstractForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abstract\AbstractForm.Designer.cs">
+      <DependentUpon>AbstractForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Encapsulation\Employee.cs" />
     <Compile Include="Encapsulation\EncapsulationForm.cs">
       <SubType>Form</SubType>
@@ -68,6 +74,22 @@
       <DependentUpon>InheritanceForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Inheritance\Teacher.cs" />
+    <Compile Include="Interface\InterfaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\InterfaceForm.Designer.cs">
+      <DependentUpon>InterfaceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Polymorphism\Employee.cs" />
+    <Compile Include="Polymorphism\Employee2.cs" />
+    <Compile Include="Polymorphism\PolymorphismForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Polymorphism\PolymorphismForm.Designer.cs">
+      <DependentUpon>PolymorphismForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Polymorphism\Teacher.cs" />
+    <Compile Include="Polymorphism\Teacher2.cs" />
     <Compile Include="SelectionScreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +105,9 @@
       <DependentUpon>StaticUsing.cs</DependentUpon>
     </Compile>
     <Compile Include="Static Using\Student.cs" />
+    <EmbeddedResource Include="Abstract\AbstractForm.resx">
+      <DependentUpon>AbstractForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Encapsulation\EncapsulationForm.resx">
       <DependentUpon>EncapsulationForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +116,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Inheritance\InheritanceForm.resx">
       <DependentUpon>InheritanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\InterfaceForm.resx">
+      <DependentUpon>InterfaceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Polymorphism\PolymorphismForm.resx">
+      <DependentUpon>PolymorphismForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
