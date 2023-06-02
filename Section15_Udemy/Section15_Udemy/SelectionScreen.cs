@@ -6,6 +6,7 @@ using Section15_Udemy.Inheritance;
 using Section15_Udemy.Interface;
 using Section15_Udemy.Polymorphism;
 using Section15_Udemy.Abstract;
+using Section15_Udemy.Partial_ve_Sealed_Class;
 
 namespace Section15_Udemy
 {
@@ -50,6 +51,12 @@ namespace Section15_Udemy
         {
             AbstractForm abstractForm = new AbstractForm();
             abstractForm.ShowDialog();
+        }
+
+        private void btnPartialSealedClass_Click(object sender, EventArgs e)
+        {
+            PartialveSealedForm partialveSealedForm = new PartialveSealedForm();
+            partialveSealedForm.ShowDialog();
         }
     }
 }
