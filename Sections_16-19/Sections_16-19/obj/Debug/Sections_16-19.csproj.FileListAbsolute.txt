@@ -1,0 +1,17 @@
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\bin\Debug\Sections_16-19.exe.config
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\bin\Debug\Sections_16-19.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\bin\Debug\Sections_16-19.pdb
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16-19.csproj.AssemblyReference.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16-19.csproj.SuggestedBindingRedirects.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.Properties.Resources.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.SelectionScreen.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16-19.csproj.GenerateResource.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16-19.csproj.CoreCompileInputs.cache
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16-19.exe
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16-19.pdb
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.Enum_Using.EnumUsingForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.Delegate_Using.DelegateUsingForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.Exception_Handling.ExceptionHandlingForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.Directory_DirectoryInfo.Directory_DirectoryInfoForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.File_FileInfo.FileAndFileInfoForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Sections_16-19\Sections_16-19\obj\Debug\Sections_16_19.Path_Class.PathClassForm.resources
