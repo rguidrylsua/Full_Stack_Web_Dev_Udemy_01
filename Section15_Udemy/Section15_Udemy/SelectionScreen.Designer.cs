@@ -34,6 +34,7 @@
             this.btnInterface = new System.Windows.Forms.Button();
             this.btnPolymorphism = new System.Windows.Forms.Button();
             this.btnAbstract = new System.Windows.Forms.Button();
+            this.btnPartialSealedClass = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnEncapsulation
@@ -102,11 +103,23 @@
             this.btnAbstract.UseVisualStyleBackColor = true;
             this.btnAbstract.Click += new System.EventHandler(this.btnAbstract_Click);
             // 
+            // btnPartialSealedClass
+            // 
+            this.btnPartialSealedClass.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPartialSealedClass.Location = new System.Drawing.Point(12, 150);
+            this.btnPartialSealedClass.Name = "btnPartialSealedClass";
+            this.btnPartialSealedClass.Size = new System.Drawing.Size(282, 40);
+            this.btnPartialSealedClass.TabIndex = 6;
+            this.btnPartialSealedClass.Text = "Partial ve Sealed Class";
+            this.btnPartialSealedClass.UseVisualStyleBackColor = true;
+            this.btnPartialSealedClass.Click += new System.EventHandler(this.btnPartialSealedClass_Click);
+            // 
             // SelectionScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(310, 202);
+            this.Controls.Add(this.btnPartialSealedClass);
             this.Controls.Add(this.btnAbstract);
             this.Controls.Add(this.btnPolymorphism);
             this.Controls.Add(this.btnInterface);
@@ -127,6 +140,7 @@
         private System.Windows.Forms.Button btnInterface;
         private System.Windows.Forms.Button btnPolymorphism;
         private System.Windows.Forms.Button btnAbstract;
+        private System.Windows.Forms.Button btnPartialSealedClass;
     }
 }
 
