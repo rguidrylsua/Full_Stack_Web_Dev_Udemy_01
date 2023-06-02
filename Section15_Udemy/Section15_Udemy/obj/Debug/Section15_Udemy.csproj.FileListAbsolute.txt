@@ -16,3 +16,4 @@ C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debu
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Interface.InterfaceForm.resources
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Polymorphism.PolymorphismForm.resources
 C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Abstract.AbstractForm.resources
+C:\LocalGit\Full_Stack_Web_Dev_Udemy_01\Section15_Udemy\Section15_Udemy\obj\Debug\Section15_Udemy.Partial_ve_Sealed_Class.PartialveSealedForm.resources
